@@ -1,2 +1,1 @@
-# Pandora
-Music player
+# Pandora.io
