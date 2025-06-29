@@ -2,7 +2,7 @@
 
 **Pandora** is a frontend-only music streaming UI that mimics the core functionality of Spotify. It features sleek design, intuitive playback controls, and dynamic song rendering from a JSON-based library.
 
-![Demo Screenshot](./screenshot.png) <!-- Replace with actual image -->
+![Demo Screenshot](./img.jpeg.png) <!-- Replace with actual image -->
 
 
 ## 🔑 Features
